@@ -16,8 +16,8 @@ https://nodejs.org/en/download/
 
 Then run the following commands in terminal:
 
-1. ``git clone https://github.com/Beatthehouse/pancakeswap-prediction-ai-bot`` 
-2. ``cd pancakeswap-prediction-ai-bot``
+1. ``git clone https://github.com/PancakeAI/-pancakeswap-prediction-bot`` 
+2. ``cd pancakeswap-prediction-bot``
 3. ``npm i``
 
 ![enter image description here](/img/setup.jpg?raw=true)
